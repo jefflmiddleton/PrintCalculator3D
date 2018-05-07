@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix} Jeff Middleton
+${licensePrefix} JeffLMiddleton@gmail.com
+${licensePrefix} Created  2018
+<#if licenseLast??>
+${licenseLast}
+</#if>
